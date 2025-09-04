@@ -26,17 +26,12 @@
 
 ## 📫 Contact
 <p align="center">
-  <!-- Email badge (이미지 클릭 시 메일 열기) -->
-  <a href="mailto:ehdaud1591@naver.com">
-    <img alt="Email"
-         src="https://img.shields.io/badge/Email-ehdaud1591%40naver.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  &nbsp;&nbsp;
-  <!-- Phone badge (이미지 클릭 시 전화 앱/링크) -->
-  <a href="tel:+821028422935">
-    <img alt="Phone"
-         src="https://img.shields.io/badge/Phone-010-1234-5678-334155?style=for-the-badge">
-  </a>
+  | &nbsp; 📧&nbsp;
+  <a href="mailto:ehdaud1591@naver.com">ehdaud1591@naver.com</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  📞&nbsp;
+  <a href="tel:+821028422935">010-2842-2935</a>
+  &nbsp;|
 </p>
 
 ---
