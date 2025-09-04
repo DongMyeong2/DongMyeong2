@@ -1,14 +1,12 @@
 <!-- Capsule Render: waving header -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=200&section=header&text=Dongmyeong%20Kim&fontColor=ffffff&fontSize=44&fontAlign=50&fontAlignY=40&desc=Data%20Analyst%20—%20AARRR·Cohort·GA4·ETL·ML&descAlign=50&descAlignY=65&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=200&section=header&text=Dongmyeong%20Kim&fontColor=ffffff&fontSize=44&fontAlign=50&fontAlignY=40&desc=Data%20Analyst&descAlign=50&descAlignY=65&animation=twinkling"
     alt="header"
 />
 </p>
 
 <div align="center">
-
-# 👋 Hi, I'm **Dongmyeong Kim**
 **Data Analyst — AARRR · Cohort · GA4 · ETL · ML**
 
 </div>
@@ -87,7 +85,3 @@
 - **서울시 대중교통 이용 경향 분석** — 시간대/노선별 혼잡 패턴 탐색형 EDA  
 - **Olist 이커머스 AARRR & 리뷰/배송 분석** — 퍼널/리뷰 감성/배송지연 영향  
 - **GA4/GTM 트래킹 설계 플레이북** — 이벤트 스키마/UTM 정합성 가이드
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=110&section=footer" />
-</p>
