@@ -7,8 +7,7 @@
 </p>
 
 <div align="center">
-**Data Analyst — AARRR · Cohort · GA4 · ETL · ML**
-
+자기소개 부분
 </div>
 
 ---
@@ -27,6 +26,23 @@
 
 ## 📫 Contact
 <p align="center">
+  <!-- Email badge (이미지 클릭 시 메일 열기) -->
+  <a href="mailto:ehdaud1591@naver.com">
+    <img alt="Email"
+         src="https://img.shields.io/badge/Email-ehdaud1591%40naver.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <!-- Phone badge (이미지 클릭 시 전화 앱/링크) -->
+  <a href="tel:+821028422935">
+    <img alt="Phone"
+         src="https://img.shields.io/badge/Phone-010-1234-5678-334155?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+## 📁 Portfolio & Repo
+<p align="center">
   <!-- 포트폴리오 PDF -->
   <a href="https://dongmyeong2.github.io/portfolio/resume.pdf">
     <img alt="Portfolio PDF"
@@ -37,10 +53,6 @@
     <img alt="GitHub Repo"
          src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>Email:</strong>
-  <a href="mailto:your.email@example.com">ehdaud1591@naver.com</a>
 </p>
 
 ---
