@@ -58,6 +58,8 @@
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-E37400?logo=googleanalytics&logoColor=white)
+![GTM](https://img.shields.io/badge/GTM-246FDB?logo=googletagmanager&logoColor=white)
 
 **Dev Tools**  
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
@@ -70,6 +72,7 @@
 **Version Control**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
 
 ---
 
