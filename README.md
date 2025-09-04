@@ -48,7 +48,13 @@
     <img alt="GitHub Repo"
          src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <!-- Tistory 블로그 -->
+  <a href="https://mj-escape.tistory.com/">
+    <img alt="Tistory Blog"
+         src="https://img.shields.io/badge/Tistory%20Blog-000000?style=for-the-badge&logo=tistory&logoColor=white">
+  </a>
 </p>
+
 
 ---
 
