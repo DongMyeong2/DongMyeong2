@@ -7,12 +7,12 @@
 </p>
 
 <div align="center">
-  저는 끈질기게 물고 늘어지는 분석가입니다.   
-  문제가 주어지면 관련 정보를 빠짐없이 모아 구조화하고, 그 과정에서 스키마·키·결측·중복 등 전처리에 가장 먼저 공을 들입니다.   
-  이렇게 정리된 데이터로 퍼널·코호트·A/B 테스트 지표를 Python·SQL로 재현할 수 있으며, 결과는 Tableau와 같은 시각화 툴로 명확하게 전달합니다.   
-  이커머스 도메인에 맞춘 웹/앱 로그 분석 역량을 준비하기 위해 GA4 태깅·설정 역량을 체계적으로 키웠고,   
-  폭넓게 모은 데이터를 바탕으로 더 깊이 파고들어 최선의 의미 있는 결론을 도출할 수 있습니다.   
-  기본기가 탄탄하다는 강점을 바탕으로 수집, 가공, 시각화까지 데이터 파이프라인 전 단계를 주도할 수 있습니다.   
+  저는 끈질기게 물고 늘어지는 분석가입니다.<br>
+  문제가 주어지면 관련 정보를 빠짐없이 모아 구조화하고, 그 과정에서 스키마·키·결측·중복 등 전처리에 가장 먼저 공을 들입니다.<br>
+  이렇게 정리된 데이터로 퍼널·코호트·A/B 테스트 지표를 Python·SQL로 재현할 수 있으며, 결과는 Tableau와 같은 시각화 툴로 명확하게 전달합니다.<br>
+  이커머스 도메인에 맞춘 웹/앱 로그 분석 역량을 준비하기 위해 GA4 태깅·설정 역량을 체계적으로 키웠고,<br>
+  폭넓게 모은 데이터를 바탕으로 더 깊이 파고들어 최선의 의미 있는 결론을 도출할 수 있습니다.<br>
+  기본기가 탄탄하다는 강점을 바탕으로 수집, 가공, 시각화까지 데이터 파이프라인 전 단계를 주도할 수 있습니다.
 </div>
 
 ---
@@ -91,12 +91,12 @@
 - **로그 기반 채용 플랫폼 진단 및 지원 활성화 전략 도출**   
   *SKILLS*: Python, Tableau   
   채용 플랫폼의 기업·공고·지원·사용자 로그를 통합해 현재 상태를 진단하고, 핵심 KPI인 지원 전환율 중심으로 병목과 개선 전략 도출   
-  🔗 코드: [https://github.com/DongMyeong2/portfolio/tree/main/projects/vote-app-churn](https://github.com/DongMyeong2/portfolio/tree/test/Main_Project_1_%EB%A1%9C%EA%B7%B8%20%EA%B8%B0%EB%B0%98%20%EC%B1%84%EC%9A%A9%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EC%A7%84%EB%8B%A8%20%EB%B0%8F%20%EC%A7%80%EC%9B%90%20%ED%99%9C%EC%84%B1%ED%99%94%20%EC%A0%84%EB%9E%B5%20%EB%8F%84%EC%B6%9C)   
+  🔗 코드: ['로그 기반 채용 플랫폼 진단 및 지원 활성화 전략 도출' Link](https://github.com/DongMyeong2/portfolio/tree/test/Main_Project_1_%EB%A1%9C%EA%B7%B8%20%EA%B8%B0%EB%B0%98%20%EC%B1%84%EC%9A%A9%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EC%A7%84%EB%8B%A8%20%EB%B0%8F%20%EC%A7%80%EC%9B%90%20%ED%99%9C%EC%84%B1%ED%99%94%20%EC%A0%84%EB%9E%B5%20%EB%8F%84%EC%B6%9C)   
 
 - **데이터로 보는 배달 앱 피크 운영 전략**   
   *SKILLS*: BigQuery   
   BigQuery 로그로 공휴일 피크 구간의 사용자 여정과 퍼널을 재현·진단하고, 즉시 적용 가능한 운영 액션 제안   
-  🔗 코드: [https://github.com/DongMyeong2/portfolio/tree/main/projects/nomad-city-busan](https://github.com/DongMyeong2/portfolio/tree/591a43585d7bea66e8a9521117ec4c05973e17bd/Main_Project_2_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C%20%EB%B3%B4%EB%8A%94%20%EB%B0%B0%EB%8B%AC%EC%95%B1%20%ED%94%BC%ED%81%AC%20%EC%9A%B4%EC%98%81%20%EC%A0%84%EB%9E%B5)
+  🔗 코드: ['데이터로 보는 배달 앱 피크 운영 전략' Link](https://github.com/DongMyeong2/portfolio/tree/591a43585d7bea66e8a9521117ec4c05973e17bd/Main_Project_2_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C%20%EB%B3%B4%EB%8A%94%20%EB%B0%B0%EB%8B%AC%EC%95%B1%20%ED%94%BC%ED%81%AC%20%EC%9A%B4%EC%98%81%20%EC%A0%84%EB%9E%B5)
 
 ---
 
