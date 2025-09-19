@@ -55,20 +55,20 @@
 ---
 
 ## 🧰 Skills
-**Data / Analytics**
+**Data / Analytics**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-**Data / tracking**
+**Data / tracking**  
 ![GA4](https://img.shields.io/badge/GA4-E37400?logo=googleanalytics&logoColor=white)
 ![GTM](https://img.shields.io/badge/GTM-246FDB?logo=googletagmanager&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-**Data / visualization**
+**Data / visualization**  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
-**Workflow / Orchestration**
+**Workflow / Orchestration**  
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
 
 **Dev Tools**  
