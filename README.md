@@ -37,7 +37,7 @@
   <!-- 포트폴리오 PDF -->
   <a href="https://dongmyeong2.github.io/portfolio">
     <img alt="Portfolio Link"
-         src="https://img.shields.io/badge/Portfolio%20PDF-0EA5E9?style=for-the-badge&logo=readthedocs&logoColor=white">
+         src="https://img.shields.io/badge/Portfolio%20Link-0EA5E9?style=for-the-badge&logo=readthedocs&logoColor=white">
   </a>
   <!-- GitHub 레포 -->
   <a href="https://github.com/DongMyeong2/portfolio">
