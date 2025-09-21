@@ -88,7 +88,8 @@
 ## 🚀 Projects
 - **채용 플랫폼 이용 행태 분석 및 지원 급감 원인 진단** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)   
-  채용 플랫폼 로그데이터를 분석하여 AARRR 기반으로 플랫폼 현황을 진단하고, 지원 급감 원인 규명, 사용자 이탈 방지 및 전환율 개선을 위한 액션을 제안한 프로젝트   
+  채용 플랫폼 로그데이터를 분석하여 AARRR 기반으로 플랫폼 현황을 진단하고,  
+  지원 급감 원인 규명, 사용자 이탈 방지 및 전환율 개선을 위한 액션을 제안한 프로젝트   
   🔗 코드: ['채용 플랫폼 이용 행태 분석 및 지원 급감 원인 진단' Link](https://github.com/DongMyeong2/portfolio/tree/test/Project_1_%EC%B1%84%EC%9A%A9%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EC%9D%B4%EC%9A%A9%20%ED%96%89%ED%83%9C%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EC%A7%80%EC%9B%90%20%EA%B8%89%EA%B0%90%20%EC%9B%90%EC%9D%B8%20%EC%A7%84%EB%8B%A8)   
 
 - **공휴일 전환율을 활용한 배달앱 성장 전략 도출** ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)   
