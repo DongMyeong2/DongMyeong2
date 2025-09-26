@@ -93,5 +93,6 @@
   🔗 코드: ['채용 플랫폼 이용 행태 분석 및 지원 급감 원인 진단' Link](https://github.com/DongMyeong2/portfolio/tree/test/Project_1_%EC%B1%84%EC%9A%A9%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EC%9D%B4%EC%9A%A9%20%ED%96%89%ED%83%9C%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EC%A7%80%EC%9B%90%20%EA%B8%89%EA%B0%90%20%EC%9B%90%EC%9D%B8%20%EC%A7%84%EB%8B%A8)   
 
 - **공휴일 신규 사용자 유입 패턴을 통한 배달 플랫폼 성장 정체 원인 분석** ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)   
-  공휴일에 집중 유입된 신규 사용자가 결제 전환과 리텐션에 실패하며 배달 플랫폼 성장 정체를 초래한 원인을 분석하고 개선 방안을 제시한 프로젝트
+  공휴일에 집중 유입된 신규 사용자가 결제 전환과 리텐션에 실패하며  
+  배달 플랫폼 성장 정체를 초래한 원인을 분석하고 개선 방안을 제시한 프로젝트
   🔗 코드: ['공휴일 신규 사용자 유입 패턴을 통한 배달 플랫폼 성장 정체 원인 분석' Link](https://github.com/DongMyeong2/portfolio/tree/test/Project_2_%EA%B3%B5%ED%9C%B4%EC%9D%BC%20%EC%8B%A0%EA%B7%9C%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%9C%A0%EC%9E%85%20%ED%8C%A8%ED%84%B4%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EB%B0%B0%EB%8B%AC%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EC%84%B1%EC%9E%A5%20%EC%A0%95%EC%B2%B4%20%EC%9B%90%EC%9D%B8%20%EB%B6%84%EC%84%9D)
